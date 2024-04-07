@@ -1,0 +1,4 @@
+Annual report of sales:
+Apples: $120
+Oranges: $170
+Bananas: $110

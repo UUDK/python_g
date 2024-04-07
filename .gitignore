@@ -1,0 +1,4 @@
+*.slides.html
+.env/
+.ipynb_checkpoints
+env/
